@@ -1,0 +1,12 @@
+{
+	"block.prairies.yellow_blooming_scrub": "Yellow Blooming Scrub",
+	"block.prairies.blue_blooming_scrub": "Blue Blooming Scrub",
+	"block.prairies.red_blooming_scrub": "Red Blooming Scrub",
+	
+	"block.prairies.short_prairie_grass": "Short Prairie Grass",
+	"block.prairies.prairie_grass": "Prairie Grass",
+	"block.prairies.short_prairie_tuft": "Prairie Tuft",
+	"block.prairies.tall_prairie_tuft": "Tall Prairie Tuft",
+	
+	"itemGroup.prairies_item_group": "Prairies"
+}

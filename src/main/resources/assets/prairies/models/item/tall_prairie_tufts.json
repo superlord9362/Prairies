@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "prairies:block/prairie_tuft_tall_top"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "prairies:block/tall_prairie_tufts_bottom"
+    },
+    "half=upper": {
+      "model": "prairies:block/tall_prairie_tufts_top"
+    }
+  }
+}

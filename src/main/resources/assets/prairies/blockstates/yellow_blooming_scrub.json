@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "prairies:block/yellow_blooming_scrub"
+      },
+      {
+        "model": "prairies:block/yellow_blooming_scrub",
+        "y": 90
+      },
+      {
+        "model": "prairies:block/yellow_blooming_scrub",
+        "y": 180
+      },
+      {
+        "model": "prairies:block/yellow_blooming_scrub",
+        "y": 270
+      }
+    ]
+  }
+}
