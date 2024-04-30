@@ -26,7 +26,9 @@ public class PrairieBiomeDecorator {
 						.waterFogColor(0x7A7883)
 						.fogColor(0x92AEBA)
 						.skyColor(0xA4BFC8)
-						.grassColorOverride(0xD3C741)
+						.grassColorOverride(0xEDBD00)
+						//D1A800 is 1st screenshot
+						//D3D300 is 2nd screenshot
 						.ambientMoodSound(AmbientMoodSettings.LEGACY_CAVE_SETTINGS)
 						.build())
 				.mobSpawnSettings(spawnBuilder.build())

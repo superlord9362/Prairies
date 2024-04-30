@@ -36,7 +36,9 @@ public class Prairies {
 	}
 	
 	private void setup(final FMLCommonSetupEvent event) {
-		Regions.register(new PrairieRegionProvider(new ResourceLocation(MOD_ID, "prairie"), 1));
+		event.enqueueWork(() -> {
+			Regions.register(new PrairieRegionProvider(new ResourceLocation(MOD_ID, "prairie"), 4));			
+		});
 	}
 	
 	public void gatherData(GatherDataEvent event) {
